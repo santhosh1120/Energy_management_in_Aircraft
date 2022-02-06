@@ -2,12 +2,12 @@
 
 # Authors:
 1.Sunil N(40020575)
-2.Midhun Chakravarthi J(40020506)
-3.Lokesh shankar(40020516)
-4.Tamil Durga Pari(40020
-5.Gokulakrishnan Ramabadran (40020551)
-6.Santhosh Dharmaraj A(40020493)
-7.Dileep Kumar Varadaraju(40020532)
+ 2.Midhun Chakravarthi J(40020506)
+ 3.Lokesh shankar(40020516)
+ 4.Tamil Durga Pari(40020
+ 5.Gokulakrishnan Ramabadran (40020551)
+ 6.Santhosh Dharmaraj A(40020493)
+ 7.Dileep Kumar Varadaraju(40020532)
 # Requirements
 
 # Introduction
